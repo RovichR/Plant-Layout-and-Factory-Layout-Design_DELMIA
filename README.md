@@ -47,6 +47,8 @@ factory floor without introducing micro-scratches on bearing surfaces.
 
 
 # PROTOTYPE MODEL (Photo)
+<img width="1280" height="960" alt="WhatsApp Image 2026-06-14 at 12 50 07 PM" src="https://github.com/user-attachments/assets/8bf2d737-ebc4-461c-8599-7db202f65d99" />
+
 
 # INFERENCE
 The plant layout follows a cellular manufacturing approach seamlessly integrated with a lean 
